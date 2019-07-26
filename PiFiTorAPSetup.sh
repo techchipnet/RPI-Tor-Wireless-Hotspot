@@ -1,4 +1,4 @@
-/#!/bin/sh
+#!/bin/sh
 #This script create for auto setup Raspberry Pi 3 Tor Access Point
 # Author - Anil Parashar
 # www.techchip.net
